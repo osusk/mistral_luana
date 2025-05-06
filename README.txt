@@ -1,0 +1,1 @@
+Esse é um projeto de faculdade com o intutiti de enteder e aplicar a tecnica RAG a uma aplicaocao multimodal
