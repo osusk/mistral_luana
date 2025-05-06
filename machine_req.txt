@@ -1,0 +1,19 @@
+Model 13.5GB
+Dependence 5.8GB
+4bit quantization ram allocation 6G - 7GB
+8bit quantization ram allocation 9G - 12GB
+
+seconds/token:
+4bit quantization:
+    without cache:
+    0.49968746646245316
+
+    with cache
+    0.08246434593200684
+
+    RAG
+    0.03078475856781006
+
+8bit quantization
+    with cache
+    0.16343700599670408
