@@ -5,7 +5,7 @@ Você criará planos de aula com base nas informações fornecidas pelos profess
         O professor está planejando uma aula sobre a disciplina ${disciplina},
          com o tema ${tema} e duração de ${tempo} minutos.
 
-       **Passo 1 (Análise do Formulário):**
+       **Passo 1 (Análise do Formulário):** #(Better do in backgroud without llm)
         1.1. Mostre quantos alunos responderam ao formulário ${sheetUrl}.
         1.2. Analise as respostas psico-socioeconômicas (questões 2-26).
         1.3. Identifique se há alunos idosos (idade > 60) e garanta acessibilidade.
